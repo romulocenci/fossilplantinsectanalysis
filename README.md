@@ -4,4 +4,4 @@ All data are to be published or already published in the project of modern arthr
 
 Link to the project (https://www.inaturalist.org/projects/modern-fern-arthropod-interactions-from-the-southern-atlantic-rainforest) on which contains representative specimens of the ferns species sampled in this work and the other modern localities. 
 
-Analysis performed contain coverage-based and accumulation rarefaction and exploratory analisis of damage types on ferns.
+The analysis performed contains coverage-based and accumulation rarefaction and exploratory analisis of damage types on ferns based on R language in the RStudio environment.
